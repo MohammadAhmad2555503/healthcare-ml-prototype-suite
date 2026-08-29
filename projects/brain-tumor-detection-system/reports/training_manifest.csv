@@ -1,0 +1,255 @@
+zip_member,label,source_label,filename,dataset
+datasets/brain_tumour/yes/Y106.jpg,Tumor Detected,yes,Y106.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No12.jpg,No Tumor,no,No12.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 94.jpg,No Tumor,no,no 94.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y255.JPG,Tumor Detected,yes,Y255.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y78.jpg,Tumor Detected,yes,Y78.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y92.jpg,Tumor Detected,yes,Y92.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y167.JPG,Tumor Detected,yes,Y167.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y17.jpg,Tumor Detected,yes,Y17.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/1 no.jpeg,No Tumor,no,1 no.jpeg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 96.jpg,No Tumor,no,no 96.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y3.jpg,Tumor Detected,yes,Y3.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y37.jpg,Tumor Detected,yes,Y37.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y97.JPG,Tumor Detected,yes,Y97.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y2.jpg,Tumor Detected,yes,Y2.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y74.jpg,Tumor Detected,yes,Y74.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 98.jpg,No Tumor,no,no 98.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y159.JPG,Tumor Detected,yes,Y159.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/13 no.jpg,No Tumor,no,13 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 95.jpg,No Tumor,no,no 95.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/46 no.jpg,No Tumor,no,46 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y188.jpg,Tumor Detected,yes,Y188.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No21.jpg,No Tumor,no,No21.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y107.jpg,Tumor Detected,yes,Y107.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y102.jpg,Tumor Detected,yes,Y102.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 91.jpeg,No Tumor,no,no 91.jpeg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y32.jpg,Tumor Detected,yes,Y32.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y112.JPG,Tumor Detected,yes,Y112.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y81.jpg,Tumor Detected,yes,Y81.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/39 no.jpg,No Tumor,no,39 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y49.JPG,Tumor Detected,yes,Y49.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y45.JPG,Tumor Detected,yes,Y45.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N15.jpg,No Tumor,no,N15.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y15.jpg,Tumor Detected,yes,Y15.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y99.JPG,Tumor Detected,yes,Y99.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y100.JPG,Tumor Detected,yes,Y100.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/40 no.jpg,No Tumor,no,40 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/31 no.jpg,No Tumor,no,31 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 923.jpg,No Tumor,no,no 923.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/4 no.jpg,No Tumor,no,4 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y249.JPG,Tumor Detected,yes,Y249.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y16.JPG,Tumor Detected,yes,Y16.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y96.jpg,Tumor Detected,yes,Y96.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y9.jpg,Tumor Detected,yes,Y9.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y38.jpg,Tumor Detected,yes,Y38.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 3.jpg,No Tumor,no,no 3.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No15.jpg,No Tumor,no,No15.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/30 no.jpg,No Tumor,no,30 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N5.jpg,No Tumor,no,N5.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y8.jpg,Tumor Detected,yes,Y8.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y105.jpg,Tumor Detected,yes,Y105.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y35.jpg,Tumor Detected,yes,Y35.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/25 no.jpg,No Tumor,no,25 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y257.jpg,Tumor Detected,yes,Y257.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/3 no.jpg,No Tumor,no,3 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/15 no.jpg,No Tumor,no,15 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y104.jpg,Tumor Detected,yes,Y104.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y30.jpg,Tumor Detected,yes,Y30.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y160.JPG,Tumor Detected,yes,Y160.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y256.JPG,Tumor Detected,yes,Y256.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no.jpg,No Tumor,no,no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y154.jpg,Tumor Detected,yes,Y154.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y65.JPG,Tumor Detected,yes,Y65.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y36.JPG,Tumor Detected,yes,Y36.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y258.JPG,Tumor Detected,yes,Y258.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y108.jpg,Tumor Detected,yes,Y108.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y109.JPG,Tumor Detected,yes,Y109.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y166.JPG,Tumor Detected,yes,Y166.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y95.jpg,Tumor Detected,yes,Y95.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 8.jpg,No Tumor,no,no 8.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y155.JPG,Tumor Detected,yes,Y155.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y19.JPG,Tumor Detected,yes,Y19.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 100.jpg,No Tumor,no,no 100.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y13.jpg,Tumor Detected,yes,Y13.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y79.jpg,Tumor Detected,yes,Y79.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y28.jpg,Tumor Detected,yes,Y28.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y259.JPG,Tumor Detected,yes,Y259.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y117.JPG,Tumor Detected,yes,Y117.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y4.jpg,Tumor Detected,yes,Y4.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 9.png,No Tumor,no,no 9.png,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No13.jpg,No Tumor,no,No13.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y245.jpg,Tumor Detected,yes,Y245.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/10 no.jpg,No Tumor,no,10 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y248.JPG,Tumor Detected,yes,Y248.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 7.jpeg,No Tumor,no,no 7.jpeg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 2.jpg,No Tumor,no,no 2.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y46.jpg,Tumor Detected,yes,Y46.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y75.JPG,Tumor Detected,yes,Y75.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y153.jpg,Tumor Detected,yes,Y153.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/7 no.jpg,No Tumor,no,7 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y40.JPG,Tumor Detected,yes,Y40.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/11 no.jpg,No Tumor,no,11 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y76.jpg,Tumor Detected,yes,Y76.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y7.jpg,Tumor Detected,yes,Y7.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/38 no.jpg,No Tumor,no,38 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/8 no.jpg,No Tumor,no,8 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/6 no.jpg,No Tumor,no,6 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/20 no.jpg,No Tumor,no,20 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N2.JPG,No Tumor,no,N2.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y113.JPG,Tumor Detected,yes,Y113.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No16.jpg,No Tumor,no,No16.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y169.jpg,Tumor Detected,yes,Y169.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N3.jpg,No Tumor,no,N3.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y14.jpg,Tumor Detected,yes,Y14.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y244.JPG,Tumor Detected,yes,Y244.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/26 no.jpg,No Tumor,no,26 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y10.jpg,Tumor Detected,yes,Y10.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/23 no.jpg,No Tumor,no,23 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y22.jpg,Tumor Detected,yes,Y22.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y70.jpg,Tumor Detected,yes,Y70.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 99.jpg,No Tumor,no,no 99.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/17 no.jpg,No Tumor,no,17 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y11.jpg,Tumor Detected,yes,Y11.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y86.JPG,Tumor Detected,yes,Y86.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No11.jpg,No Tumor,no,No11.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y89.JPG,Tumor Detected,yes,Y89.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/19 no.jpg,No Tumor,no,19 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y247.JPG,Tumor Detected,yes,Y247.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y34.jpg,Tumor Detected,yes,Y34.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y116.JPG,Tumor Detected,yes,Y116.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y44.JPG,Tumor Detected,yes,Y44.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y62.jpg,Tumor Detected,yes,Y62.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N6.jpg,No Tumor,no,N6.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 97.jpg,No Tumor,no,no 97.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N26.JPG,No Tumor,no,N26.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/33 no.jpg,No Tumor,no,33 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y156.JPG,Tumor Detected,yes,Y156.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y59.JPG,Tumor Detected,yes,Y59.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y61.jpg,Tumor Detected,yes,Y61.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y246.JPG,Tumor Detected,yes,Y246.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y77.jpg,Tumor Detected,yes,Y77.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y253.JPG,Tumor Detected,yes,Y253.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No17.jpg,No Tumor,no,No17.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N19.JPG,No Tumor,no,N19.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y20.jpg,Tumor Detected,yes,Y20.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y186.jpg,Tumor Detected,yes,Y186.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 1.jpg,No Tumor,no,no 1.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y12.jpg,Tumor Detected,yes,Y12.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y243.JPG,Tumor Detected,yes,Y243.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 4.jpg,No Tumor,no,no 4.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y23.JPG,Tumor Detected,yes,Y23.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 5.jpeg,No Tumor,no,no 5.jpeg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y242.JPG,Tumor Detected,yes,Y242.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/36 no.jpg,No Tumor,no,36 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y58.JPG,Tumor Detected,yes,Y58.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y194.jpg,Tumor Detected,yes,Y194.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y187.jpg,Tumor Detected,yes,Y187.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/5 no.jpg,No Tumor,no,5 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y148.JPG,Tumor Detected,yes,Y148.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y66.JPG,Tumor Detected,yes,Y66.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y18.JPG,Tumor Detected,yes,Y18.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y52.jpg,Tumor Detected,yes,Y52.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/48 no.jpeg,No Tumor,no,48 no.jpeg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y252.jpg,Tumor Detected,yes,Y252.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No14.jpg,No Tumor,no,No14.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/28 no.jpg,No Tumor,no,28 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y47.JPG,Tumor Detected,yes,Y47.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/41 no.jpg,No Tumor,no,41 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y71.JPG,Tumor Detected,yes,Y71.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y157.JPG,Tumor Detected,yes,Y157.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/24 no.jpg,No Tumor,no,24 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y103.jpg,Tumor Detected,yes,Y103.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y195.JPG,Tumor Detected,yes,Y195.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/37 no.jpg,No Tumor,no,37 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No20.jpg,No Tumor,no,No20.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y101.jpg,Tumor Detected,yes,Y101.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N17.jpg,No Tumor,no,N17.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No19.jpg,No Tumor,no,No19.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y180.jpg,Tumor Detected,yes,Y180.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y90.jpg,Tumor Detected,yes,Y90.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/35 no.jpg,No Tumor,no,35 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y82.jpg,Tumor Detected,yes,Y82.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y158.JPG,Tumor Detected,yes,Y158.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/27 no.jpg,No Tumor,no,27 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y91.jpg,Tumor Detected,yes,Y91.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/18 no.jpg,No Tumor,no,18 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y21.jpg,Tumor Detected,yes,Y21.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y26.jpg,Tumor Detected,yes,Y26.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y25.jpg,Tumor Detected,yes,Y25.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y161.JPG,Tumor Detected,yes,Y161.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/32 no.jpg,No Tumor,no,32 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y1.jpg,Tumor Detected,yes,Y1.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/44no.jpg,No Tumor,no,44no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/14 no.jpg,No Tumor,no,14 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y111.JPG,Tumor Detected,yes,Y111.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/49 no.jpg,No Tumor,no,49 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y147.JPG,Tumor Detected,yes,Y147.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y250.jpg,Tumor Detected,yes,Y250.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 6.jpg,No Tumor,no,no 6.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N16.jpg,No Tumor,no,N16.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y181.jpg,Tumor Detected,yes,Y181.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y120.JPG,Tumor Detected,yes,Y120.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No22.jpg,No Tumor,no,No22.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/2 no.jpeg,No Tumor,no,2 no.jpeg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/34 no.jpg,No Tumor,no,34 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N20.JPG,No Tumor,no,N20.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y69.jpg,Tumor Detected,yes,Y69.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y254.jpg,Tumor Detected,yes,Y254.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/21 no.jpg,No Tumor,no,21 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y168.jpg,Tumor Detected,yes,Y168.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/9 no.jpg,No Tumor,no,9 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y53.jpg,Tumor Detected,yes,Y53.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y182.JPG,Tumor Detected,yes,Y182.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y115.JPG,Tumor Detected,yes,Y115.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y92.png,Tumor Detected,yes,Y92.png,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N11.jpg,No Tumor,no,N11.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 10.jpg,No Tumor,no,no 10.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y24.jpg,Tumor Detected,yes,Y24.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/12 no.jpg,No Tumor,no,12 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y54.jpg,Tumor Detected,yes,Y54.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y163.JPG,Tumor Detected,yes,Y163.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y73.jpg,Tumor Detected,yes,Y73.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y184.JPG,Tumor Detected,yes,Y184.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y42.jpg,Tumor Detected,yes,Y42.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y27.jpg,Tumor Detected,yes,Y27.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y185.jpg,Tumor Detected,yes,Y185.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y164.JPG,Tumor Detected,yes,Y164.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 89.jpg,No Tumor,no,no 89.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/22 no.jpg,No Tumor,no,22 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 92.jpg,No Tumor,no,no 92.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/No18.jpg,No Tumor,no,No18.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/43 no.jpg,No Tumor,no,43 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y29.jpg,Tumor Detected,yes,Y29.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y51.jpg,Tumor Detected,yes,Y51.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y6.jpg,Tumor Detected,yes,Y6.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y41.jpg,Tumor Detected,yes,Y41.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y67.JPG,Tumor Detected,yes,Y67.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y33.jpg,Tumor Detected,yes,Y33.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/42 no.jpg,No Tumor,no,42 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y114.JPG,Tumor Detected,yes,Y114.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y183.jpg,Tumor Detected,yes,Y183.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/47 no.jpg,No Tumor,no,47 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/45 no.jpg,No Tumor,no,45 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y251.JPG,Tumor Detected,yes,Y251.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y60.jpg,Tumor Detected,yes,Y60.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y165.JPG,Tumor Detected,yes,Y165.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y193.JPG,Tumor Detected,yes,Y193.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y85.JPG,Tumor Detected,yes,Y85.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y55.jpg,Tumor Detected,yes,Y55.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/no 90.jpg,No Tumor,no,no 90.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y50.JPG,Tumor Detected,yes,Y50.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N21.jpg,No Tumor,no,N21.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y162.jpg,Tumor Detected,yes,Y162.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y192.JPG,Tumor Detected,yes,Y192.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y146.JPG,Tumor Detected,yes,Y146.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y39.jpg,Tumor Detected,yes,Y39.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N1.JPG,No Tumor,no,N1.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y31.jpg,Tumor Detected,yes,Y31.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/N22.JPG,No Tumor,no,N22.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y98.JPG,Tumor Detected,yes,Y98.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/no/50 no.jpg,No Tumor,no,50 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/no/29 no.jpg,No Tumor,no,29 no.jpg,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y170.JPG,Tumor Detected,yes,Y170.JPG,BrainTumorDetectionSystem
+datasets/brain_tumour/yes/Y56.jpg,Tumor Detected,yes,Y56.jpg,BrainTumorDetectionSystem
+

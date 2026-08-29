@@ -1,0 +1,28 @@
+{
+  "project": {
+    "folder": "HeartDiseaseRiskAssessment",
+    "name": "Heart Disease Risk Assessment and Decision Support System",
+    "short_name": "Heart Disease Risk Assessment",
+    "type": "tabular_classification"
+  },
+  "generated_at": "2026-08-25T13:11:28+00:00",
+  "selected_model": "Random Forest",
+  "target_column": "target",
+  "classes": [
+    "No Heart Disease",
+    "Heart Disease"
+  ],
+  "feature_count": 13,
+  "test_metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0
+  },
+  "clinical": {
+    "domain": "Cardiology risk prediction",
+    "use_case": "Structured clinical risk prediction for heart disease screening and care pathway support.",
+    "positive_label": "Heart Disease"
+  }
+}

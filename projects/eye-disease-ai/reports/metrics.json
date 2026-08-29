@@ -1,0 +1,325 @@
+{
+  "selected_model": "Random Forest",
+  "generated_at": "2026-08-25T13:03:23+00:00",
+  "test_metrics": {
+    "accuracy": 0.8269230769230769,
+    "precision_macro": 0.8279377689506786,
+    "recall_macro": 0.8269230769230769,
+    "f1_macro": 0.8260213571856435,
+    "roc_auc_ovr": 0.9436945266272189
+  },
+  "classification_report": {
+    "Cataract": {
+      "precision": 0.8301886792452831,
+      "recall": 0.8461538461538461,
+      "f1-score": 0.8380952380952381,
+      "support": 52.0
+    },
+    "Diabetic Retinopathy": {
+      "precision": 0.9622641509433962,
+      "recall": 0.9807692307692307,
+      "f1-score": 0.9714285714285714,
+      "support": 52.0
+    },
+    "Glaucoma": {
+      "precision": 0.8,
+      "recall": 0.6923076923076923,
+      "f1-score": 0.7422680412371134,
+      "support": 52.0
+    },
+    "Normal": {
+      "precision": 0.7192982456140351,
+      "recall": 0.7884615384615384,
+      "f1-score": 0.7522935779816514,
+      "support": 52.0
+    },
+    "accuracy": 0.8269230769230769,
+    "macro avg": {
+      "precision": 0.8279377689506786,
+      "recall": 0.8269230769230769,
+      "f1-score": 0.8260213571856435,
+      "support": 208.0
+    },
+    "weighted avg": {
+      "precision": 0.8279377689506787,
+      "recall": 0.8269230769230769,
+      "f1-score": 0.8260213571856436,
+      "support": 208.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      44,
+      0,
+      4,
+      4
+    ],
+    [
+      0,
+      51,
+      0,
+      1
+    ],
+    [
+      4,
+      1,
+      36,
+      11
+    ],
+    [
+      5,
+      1,
+      5,
+      41
+    ]
+  ],
+  "classes": [
+    "Cataract",
+    "Diabetic Retinopathy",
+    "Glaucoma",
+    "Normal"
+  ],
+  "comparison": [
+    {
+      "model": "Random Forest",
+      "best_cv_score": 0.7632057903853384,
+      "best_params": {
+        "model__max_depth": null,
+        "model__min_samples_leaf": 1,
+        "model__n_estimators": 250
+      },
+      "accuracy": 0.8269230769230769,
+      "precision_macro": 0.8279377689506786,
+      "recall_macro": 0.8269230769230769,
+      "f1_macro": 0.8260213571856435,
+      "roc_auc_ovr": 0.9436945266272189
+    },
+    {
+      "model": "Support Vector Machine",
+      "best_cv_score": 0.7618040390830868,
+      "best_params": {
+        "model__C": 0.5,
+        "model__kernel": "linear"
+      },
+      "accuracy": 0.8125,
+      "precision_macro": 0.8110663108978472,
+      "recall_macro": 0.8125,
+      "f1_macro": 0.8115145199467075,
+      "roc_auc_ovr": 0.9328772189349112
+    },
+    {
+      "model": "Logistic Regression",
+      "best_cv_score": 0.7653417755587739,
+      "best_params": {
+        "model__C": 1.0
+      },
+      "accuracy": 0.7932692307692307,
+      "precision_macro": 0.7946246084833042,
+      "recall_macro": 0.7932692307692307,
+      "f1_macro": 0.7928837596964282,
+      "roc_auc_ovr": 0.9407975838264301
+    }
+  ],
+  "feature_importance": [
+    {
+      "feature": "edge_q90",
+      "importance": 0.04046661628350774,
+      "normalized_importance": 0.04046661628350774
+    },
+    {
+      "feature": "thumb_pixel_047",
+      "importance": 0.017120168879765914,
+      "normalized_importance": 0.017120168879765914
+    },
+    {
+      "feature": "thumb_pixel_063",
+      "importance": 0.01215880292028873,
+      "normalized_importance": 0.01215880292028873
+    },
+    {
+      "feature": "thumb_pixel_207",
+      "importance": 0.011419829796748989,
+      "normalized_importance": 0.011419829796748989
+    },
+    {
+      "feature": "edge_mean",
+      "importance": 0.011220640801121997,
+      "normalized_importance": 0.011220640801121997
+    },
+    {
+      "feature": "thumb_pixel_223",
+      "importance": 0.010962535394427046,
+      "normalized_importance": 0.010962535394427046
+    },
+    {
+      "feature": "thumb_pixel_079",
+      "importance": 0.010283098899538568,
+      "normalized_importance": 0.010283098899538568
+    },
+    {
+      "feature": "thumb_pixel_048",
+      "importance": 0.00964408543074399,
+      "normalized_importance": 0.00964408543074399
+    },
+    {
+      "feature": "thumb_pixel_064",
+      "importance": 0.009500641917281,
+      "normalized_importance": 0.009500641917281
+    },
+    {
+      "feature": "gray_hist_00",
+      "importance": 0.009405733529216935,
+      "normalized_importance": 0.009405733529216935
+    },
+    {
+      "feature": "gray_max",
+      "importance": 0.009354667863495284,
+      "normalized_importance": 0.009354667863495284
+    },
+    {
+      "feature": "green_max",
+      "importance": 0.009198895565628216,
+      "normalized_importance": 0.009198895565628216
+    },
+    {
+      "feature": "thumb_pixel_208",
+      "importance": 0.009177674772768075,
+      "normalized_importance": 0.009177674772768075
+    },
+    {
+      "feature": "thumb_pixel_004",
+      "importance": 0.008902855157270751,
+      "normalized_importance": 0.008902855157270751
+    },
+    {
+      "feature": "thumb_pixel_032",
+      "importance": 0.008760454298628996,
+      "normalized_importance": 0.008760454298628996
+    },
+    {
+      "feature": "thumb_pixel_046",
+      "importance": 0.008320173693092204,
+      "normalized_importance": 0.008320173693092204
+    },
+    {
+      "feature": "thumb_pixel_033",
+      "importance": 0.008195408530680693,
+      "normalized_importance": 0.008195408530680693
+    },
+    {
+      "feature": "green_hist_00",
+      "importance": 0.008136623326498126,
+      "normalized_importance": 0.008136623326498126
+    },
+    {
+      "feature": "thumb_pixel_011",
+      "importance": 0.008032439085092212,
+      "normalized_importance": 0.008032439085092212
+    },
+    {
+      "feature": "red_q25",
+      "importance": 0.007965354089992636,
+      "normalized_importance": 0.007965354089992636
+    },
+    {
+      "feature": "red_hist_00",
+      "importance": 0.007467818661558183,
+      "normalized_importance": 0.007467818661558183
+    },
+    {
+      "feature": "green_q25",
+      "importance": 0.007391136341790903,
+      "normalized_importance": 0.007391136341790903
+    },
+    {
+      "feature": "thumb_pixel_192",
+      "importance": 0.0070635522255246795,
+      "normalized_importance": 0.0070635522255246795
+    },
+    {
+      "feature": "thumb_pixel_029",
+      "importance": 0.006746326315378782,
+      "normalized_importance": 0.006746326315378782
+    },
+    {
+      "feature": "blue_max",
+      "importance": 0.006663537766399813,
+      "normalized_importance": 0.006663537766399813
+    },
+    {
+      "feature": "thumb_pixel_009",
+      "importance": 0.0064994135463101906,
+      "normalized_importance": 0.0064994135463101906
+    },
+    {
+      "feature": "thumb_pixel_008",
+      "importance": 0.00627602985229604,
+      "normalized_importance": 0.00627602985229604
+    },
+    {
+      "feature": "gray_hist_13",
+      "importance": 0.005791745605404552,
+      "normalized_importance": 0.005791745605404552
+    },
+    {
+      "feature": "thumb_pixel_028",
+      "importance": 0.0056783703530541,
+      "normalized_importance": 0.0056783703530541
+    },
+    {
+      "feature": "thumb_pixel_007",
+      "importance": 0.00562834571108209,
+      "normalized_importance": 0.00562834571108209
+    },
+    {
+      "feature": "thumb_pixel_006",
+      "importance": 0.005581250248217767,
+      "normalized_importance": 0.005581250248217767
+    },
+    {
+      "feature": "thumb_pixel_209",
+      "importance": 0.005315553362666599,
+      "normalized_importance": 0.005315553362666599
+    },
+    {
+      "feature": "thumb_pixel_010",
+      "importance": 0.005290820584421719,
+      "normalized_importance": 0.005290820584421719
+    },
+    {
+      "feature": "blue_hist_00",
+      "importance": 0.0050943828313506955,
+      "normalized_importance": 0.0050943828313506955
+    },
+    {
+      "feature": "green_std",
+      "importance": 0.0050033752266459225,
+      "normalized_importance": 0.0050033752266459225
+    },
+    {
+      "feature": "thumb_pixel_005",
+      "importance": 0.004975375062205166,
+      "normalized_importance": 0.004975375062205166
+    },
+    {
+      "feature": "thumb_pixel_191",
+      "importance": 0.004964280476079973,
+      "normalized_importance": 0.004964280476079973
+    },
+    {
+      "feature": "green_hist_06",
+      "importance": 0.004942396723523181,
+      "normalized_importance": 0.004942396723523181
+    },
+    {
+      "feature": "thumb_pixel_034",
+      "importance": 0.004930606000508499,
+      "normalized_importance": 0.004930606000508499
+    },
+    {
+      "feature": "thumb_pixel_019",
+      "importance": 0.004897988447220346,
+      "normalized_importance": 0.004897988447220346
+    }
+  ]
+}

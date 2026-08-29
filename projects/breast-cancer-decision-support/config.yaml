@@ -1,0 +1,26 @@
+project:
+  name: Breast Cancer Prediction and Clinical Decision Support System
+  version: 1.0.0
+  random_state: 42
+data:
+  path: data/breast_cancer.csv
+  target_column: diagnosis
+  drop_columns:
+  - id
+  test_size: 0.2
+  validation_size: 0.0
+training:
+  cv_folds: 5
+  scoring: roc_auc
+  n_iter_random_search: 12
+  refit_metric: roc_auc
+  risk_thresholds:
+    low: 0.35
+    moderate: 0.65
+artifacts:
+  model_path: models/model.pkl
+  scaler_path: models/scaler.pkl
+  metadata_path: models/model_metadata.json
+  feature_names_path: models/feature_names.json
+  metrics_path: reports/metrics.json
+

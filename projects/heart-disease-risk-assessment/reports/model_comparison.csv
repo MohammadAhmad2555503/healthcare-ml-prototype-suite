@@ -1,0 +1,5 @@
+model,best_cv_score,best_params,accuracy,precision,recall,f1,roc_auc
+Random Forest,0.9986309523809525,"{'model__max_depth': None, 'model__min_samples_leaf': 1, 'model__n_estimators': 400}",1.0,1.0,1.0,1.0,1.0
+Support Vector Machine,0.9878265166826224,"{'model__C': 3.0, 'model__kernel': 'rbf'}",0.9658536585365853,0.9711538461538461,0.9619047619047619,0.9665071770334929,0.9869523809523809
+Logistic Regression,0.9161173013509203,{'model__C': 0.1},0.8097560975609757,0.7619047619047619,0.9142857142857143,0.8311688311688312,0.9295238095238095
+

@@ -1,0 +1,1 @@
+Clinical imaging triage demo for lung cancer cases with reports, Streamlit dashboard, Docker, and tests.

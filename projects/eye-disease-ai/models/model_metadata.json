@@ -1,0 +1,36 @@
+{
+  "project": {
+    "folder": "EyeDiseaseAI",
+    "name": "Eye Disease Screening AI",
+    "short_name": "Eye Disease AI",
+    "type": "image_classification"
+  },
+  "generated_at": "2026-08-25T13:03:22+00:00",
+  "selected_model": "Random Forest",
+  "classes": [
+    "Cataract",
+    "Diabetic Retinopathy",
+    "Glaucoma",
+    "Normal"
+  ],
+  "feature_count": 325,
+  "training_rows": 1040,
+  "test_rows": 208,
+  "test_metrics": {
+    "accuracy": 0.8269230769230769,
+    "precision_macro": 0.8279377689506786,
+    "recall_macro": 0.8269230769230769,
+    "f1_macro": 0.8260213571856435,
+    "roc_auc_ovr": 0.9436945266272189
+  },
+  "clinical": {
+    "domain": "Ophthalmology imaging",
+    "use_case": "Retinal and eye image screening support for common ophthalmic disease categories.",
+    "image_modality": "Fundus/eye image",
+    "positive_labels": [
+      "Cataract",
+      "Diabetic Retinopathy",
+      "Glaucoma"
+    ]
+  }
+}

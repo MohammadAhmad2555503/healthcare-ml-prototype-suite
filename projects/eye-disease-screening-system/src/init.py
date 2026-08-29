@@ -1,0 +1,2 @@
+"""Healthcare image prototype package."""
+

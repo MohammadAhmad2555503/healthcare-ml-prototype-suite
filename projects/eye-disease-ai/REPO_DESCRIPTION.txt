@@ -1,0 +1,1 @@
+Ophthalmology image-screening prototype with training pipeline, model reports, Streamlit dashboard, Docker, and tests.

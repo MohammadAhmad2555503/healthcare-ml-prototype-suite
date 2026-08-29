@@ -1,0 +1,32 @@
+{
+  "project": {
+    "folder": "HeartDiseaseAI",
+    "name": "Heart Disease Risk Prediction AI",
+    "short_name": "Heart Disease AI",
+    "type": "tabular_classification"
+  },
+  "clinical": {
+    "domain": "Cardiology risk prediction",
+    "use_case": "Structured clinical risk prediction for heart disease screening and care pathway support.",
+    "positive_label": "Heart Disease"
+  },
+  "data": {
+    "path": "data/heart.csv",
+    "target_column": "target",
+    "class_map": {
+      "0": "No Heart Disease",
+      "1": "Heart Disease"
+    }
+  },
+  "training": {
+    "random_state": 42,
+    "test_size": 0.2,
+    "cv_folds": 5
+  },
+  "artifacts": {
+    "model_path": "models/model.pkl",
+    "metadata_path": "models/model_metadata.json",
+    "feature_names_path": "models/feature_names.json",
+    "metrics_path": "reports/metrics.json"
+  }
+}

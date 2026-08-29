@@ -1,0 +1,39 @@
+{
+  "project": {
+    "folder": "LungCancerAI",
+    "name": "Lung Cancer Imaging AI",
+    "short_name": "Lung Cancer AI",
+    "type": "image_classification"
+  },
+  "clinical": {
+    "domain": "Thoracic oncology imaging",
+    "use_case": "Chest imaging decision support for benign, malignant, and normal lung case triage.",
+    "image_modality": "Chest CT/X-ray image",
+    "positive_labels": [
+      "Malignant"
+    ]
+  },
+  "data": {
+    "zip_path": "data/datasets.zip",
+    "source_zip_path": "C:\\Users\\HP\\Desktop\\New folder (4)\\datasets\\datasets.zip",
+    "zip_prefix": "datasets/lung_cancer/",
+    "class_map": {
+      "Bengin cases": "Benign",
+      "Malignant cases": "Malignant",
+      "Normal cases": "Normal"
+    }
+  },
+  "training": {
+    "random_state": 42,
+    "test_size": 0.2,
+    "cv_folds": 5,
+    "max_samples_per_class": 260
+  },
+  "artifacts": {
+    "model_path": "models/model.pkl",
+    "label_encoder_path": "models/label_encoder.pkl",
+    "metadata_path": "models/model_metadata.json",
+    "feature_names_path": "models/feature_names.json",
+    "metrics_path": "reports/metrics.json"
+  }
+}

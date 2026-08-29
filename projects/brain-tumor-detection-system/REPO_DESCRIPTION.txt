@@ -1,0 +1,1 @@
+Clinical triage demo for brain tumor detection with prediction services, reporting, Streamlit dashboard, Docker, and tests.

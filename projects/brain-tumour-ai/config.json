@@ -1,0 +1,38 @@
+{
+  "project": {
+    "folder": "BrainTumourAI",
+    "name": "Brain Tumour Detection AI",
+    "short_name": "Brain Tumour AI",
+    "type": "image_classification"
+  },
+  "clinical": {
+    "domain": "Neuro-oncology imaging",
+    "use_case": "MRI triage support for identifying whether a brain scan shows tumour-suspicious findings.",
+    "image_modality": "Brain MRI",
+    "positive_labels": [
+      "Tumour Detected"
+    ]
+  },
+  "data": {
+    "zip_path": "data/datasets.zip",
+    "source_zip_path": "C:\\Users\\HP\\Desktop\\New folder (4)\\datasets\\datasets.zip",
+    "zip_prefix": "datasets/brain_tumour/",
+    "class_map": {
+      "yes": "Tumour Detected",
+      "no": "No Tumour"
+    }
+  },
+  "training": {
+    "random_state": 42,
+    "test_size": 0.2,
+    "cv_folds": 5,
+    "max_samples_per_class": 180
+  },
+  "artifacts": {
+    "model_path": "models/model.pkl",
+    "label_encoder_path": "models/label_encoder.pkl",
+    "metadata_path": "models/model_metadata.json",
+    "feature_names_path": "models/feature_names.json",
+    "metrics_path": "reports/metrics.json"
+  }
+}

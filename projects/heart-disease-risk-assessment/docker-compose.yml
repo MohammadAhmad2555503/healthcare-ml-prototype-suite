@@ -1,0 +1,14 @@
+services:
+  heart-disease-risk-assessment:
+    build: .
+    container_name: heart-disease-risk-assessment
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./models:/app/models
+      - ./reports:/app/reports
+      - ./logs:/app/logs
+    environment:
+      - PYTHONPATH=/app
+    command: streamlit run app/Home.py --server.address=0.0.0.0 --server.port=8501
+

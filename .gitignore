@@ -1,0 +1,53 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Runtime files
+*.log
+*.err
+*.tmp
+*.pid
+.streamlit_server.pid
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Dependency and build outputs
+node_modules/
+dist/
+build/
+.next/
+
+# Local/private data staging
+data/raw/
+data/private/
+exports/
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.tgz
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini

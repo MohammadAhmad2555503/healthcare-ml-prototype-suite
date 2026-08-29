@@ -1,0 +1,14 @@
+* text=auto
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.docx binary
+*.twbx binary
+*.Rda binary
+*.pkl binary
+*.joblib binary
+*.h5 binary
+*.onnx binary

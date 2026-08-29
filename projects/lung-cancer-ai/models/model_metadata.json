@@ -1,0 +1,33 @@
+{
+  "project": {
+    "folder": "LungCancerAI",
+    "name": "Lung Cancer Imaging AI",
+    "short_name": "Lung Cancer AI",
+    "type": "image_classification"
+  },
+  "generated_at": "2026-08-25T13:08:40+00:00",
+  "selected_model": "Random Forest",
+  "classes": [
+    "Benign",
+    "Malignant",
+    "Normal"
+  ],
+  "feature_count": 325,
+  "training_rows": 640,
+  "test_rows": 128,
+  "test_metrics": {
+    "accuracy": 0.96875,
+    "precision_macro": 0.9751515151515151,
+    "recall_macro": 0.9668803418803419,
+    "f1_macro": 0.9704901116010798,
+    "roc_auc_ovr": 0.9972447143499775
+  },
+  "clinical": {
+    "domain": "Thoracic oncology imaging",
+    "use_case": "Chest imaging decision support for benign, malignant, and normal lung case triage.",
+    "image_modality": "Chest CT/X-ray image",
+    "positive_labels": [
+      "Malignant"
+    ]
+  }
+}

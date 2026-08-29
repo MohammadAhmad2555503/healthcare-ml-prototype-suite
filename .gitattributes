@@ -1,0 +1,10 @@
+﻿# Auto detect text files and normalize line endings
+* text=auto
+
+# Common binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.pkl binary

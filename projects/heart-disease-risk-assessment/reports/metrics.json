@@ -1,0 +1,160 @@
+{
+  "selected_model": "Random Forest",
+  "generated_at": "2026-08-25T13:11:28+00:00",
+  "test_metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0
+  },
+  "classification_report": {
+    "No Heart Disease": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 100.0
+    },
+    "Heart Disease": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 105.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 205.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 205.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      100,
+      0
+    ],
+    [
+      0,
+      105
+    ]
+  ],
+  "classes": [
+    "No Heart Disease",
+    "Heart Disease"
+  ],
+  "comparison": [
+    {
+      "model": "Random Forest",
+      "best_cv_score": 0.9986309523809525,
+      "best_params": {
+        "model__max_depth": null,
+        "model__min_samples_leaf": 1,
+        "model__n_estimators": 400
+      },
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0
+    },
+    {
+      "model": "Support Vector Machine",
+      "best_cv_score": 0.9878265166826224,
+      "best_params": {
+        "model__C": 3.0,
+        "model__kernel": "rbf"
+      },
+      "accuracy": 0.9658536585365853,
+      "precision": 0.9711538461538461,
+      "recall": 0.9619047619047619,
+      "f1": 0.9665071770334929,
+      "roc_auc": 0.9869523809523809
+    },
+    {
+      "model": "Logistic Regression",
+      "best_cv_score": 0.9161173013509203,
+      "best_params": {
+        "model__C": 0.1
+      },
+      "accuracy": 0.8097560975609757,
+      "precision": 0.7619047619047619,
+      "recall": 0.9142857142857143,
+      "f1": 0.8311688311688312,
+      "roc_auc": 0.9295238095238095
+    }
+  ],
+  "feature_importance": [
+    {
+      "feature": "cp",
+      "importance": 0.14918483868010624,
+      "normalized_importance": 0.1491848386801062
+    },
+    {
+      "feature": "thalach",
+      "importance": 0.11407747689091122,
+      "normalized_importance": 0.11407747689091119
+    },
+    {
+      "feature": "ca",
+      "importance": 0.11262307825498574,
+      "normalized_importance": 0.11262307825498571
+    },
+    {
+      "feature": "oldpeak",
+      "importance": 0.10009990330018569,
+      "normalized_importance": 0.10009990330018566
+    },
+    {
+      "feature": "age",
+      "importance": 0.09581918023833427,
+      "normalized_importance": 0.09581918023833425
+    },
+    {
+      "feature": "thal",
+      "importance": 0.09493130761118657,
+      "normalized_importance": 0.09493130761118654
+    },
+    {
+      "feature": "chol",
+      "importance": 0.08003675134410525,
+      "normalized_importance": 0.08003675134410523
+    },
+    {
+      "feature": "exang",
+      "importance": 0.0743627696310178,
+      "normalized_importance": 0.07436276963101779
+    },
+    {
+      "feature": "trestbps",
+      "importance": 0.07050772579847182,
+      "normalized_importance": 0.07050772579847181
+    },
+    {
+      "feature": "slope",
+      "importance": 0.04769923446598942,
+      "normalized_importance": 0.04769923446598941
+    },
+    {
+      "feature": "sex",
+      "importance": 0.03228413770101453,
+      "normalized_importance": 0.03228413770101452
+    },
+    {
+      "feature": "restecg",
+      "importance": 0.018685164355929706,
+      "normalized_importance": 0.018685164355929703
+    },
+    {
+      "feature": "fbs",
+      "importance": 0.009688431727761793,
+      "normalized_importance": 0.009688431727761791
+    }
+  ]
+}

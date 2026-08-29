@@ -1,0 +1,42 @@
+{
+  "project": {
+    "folder": "EyeDiseaseAI",
+    "name": "Eye Disease Screening AI",
+    "short_name": "Eye Disease AI",
+    "type": "image_classification"
+  },
+  "clinical": {
+    "domain": "Ophthalmology imaging",
+    "use_case": "Retinal and eye image screening support for common ophthalmic disease categories.",
+    "image_modality": "Fundus/eye image",
+    "positive_labels": [
+      "Cataract",
+      "Diabetic Retinopathy",
+      "Glaucoma"
+    ]
+  },
+  "data": {
+    "zip_path": "data/datasets.zip",
+    "source_zip_path": "C:\\Users\\HP\\Desktop\\New folder (4)\\datasets\\datasets.zip",
+    "zip_prefix": "datasets/eye_disease/",
+    "class_map": {
+      "cataract": "Cataract",
+      "diabetic_retinopathy": "Diabetic Retinopathy",
+      "glaucoma": "Glaucoma",
+      "normal": "Normal"
+    }
+  },
+  "training": {
+    "random_state": 42,
+    "test_size": 0.2,
+    "cv_folds": 5,
+    "max_samples_per_class": 260
+  },
+  "artifacts": {
+    "model_path": "models/model.pkl",
+    "label_encoder_path": "models/label_encoder.pkl",
+    "metadata_path": "models/model_metadata.json",
+    "feature_names_path": "models/feature_names.json",
+    "metrics_path": "reports/metrics.json"
+  }
+}

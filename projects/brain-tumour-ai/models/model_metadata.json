@@ -1,0 +1,32 @@
+{
+  "project": {
+    "folder": "BrainTumourAI",
+    "name": "Brain Tumour Detection AI",
+    "short_name": "Brain Tumour AI",
+    "type": "image_classification"
+  },
+  "generated_at": "2026-08-25T12:54:34+00:00",
+  "selected_model": "Random Forest",
+  "classes": [
+    "No Tumour",
+    "Tumour Detected"
+  ],
+  "feature_count": 325,
+  "training_rows": 253,
+  "test_rows": 51,
+  "test_metrics": {
+    "accuracy": 0.8431372549019608,
+    "precision_macro": 0.8409090909090909,
+    "recall_macro": 0.8266129032258065,
+    "f1_macro": 0.8322368421052632,
+    "roc_auc": 0.8951612903225807
+  },
+  "clinical": {
+    "domain": "Neuro-oncology imaging",
+    "use_case": "MRI triage support for identifying whether a brain scan shows tumour-suspicious findings.",
+    "image_modality": "Brain MRI",
+    "positive_labels": [
+      "Tumour Detected"
+    ]
+  }
+}

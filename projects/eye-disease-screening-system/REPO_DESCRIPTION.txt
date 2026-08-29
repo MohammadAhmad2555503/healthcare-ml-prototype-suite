@@ -1,0 +1,1 @@
+Clinical screening demo for ophthalmic disease categories with prediction workflow, reports, Streamlit, Docker, and tests.

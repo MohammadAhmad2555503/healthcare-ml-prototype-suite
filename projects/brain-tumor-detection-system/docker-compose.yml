@@ -1,0 +1,14 @@
+services:
+  brain-tumor-detection-system:
+    build: .
+    container_name: brain-tumor-detection-system
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./models:/app/models
+      - ./reports:/app/reports
+      - ./logs:/app/logs
+    environment:
+      - PYTHONPATH=/app
+    command: streamlit run app/Home.py --server.address=0.0.0.0 --server.port=8501
+

@@ -1,0 +1,309 @@
+{
+  "selected_model": "Random Forest",
+  "generated_at": "2026-08-25T13:08:40+00:00",
+  "test_metrics": {
+    "accuracy": 0.96875,
+    "precision_macro": 0.9751515151515151,
+    "recall_macro": 0.9668803418803419,
+    "f1_macro": 0.9704901116010798,
+    "roc_auc_ovr": 0.9972447143499775
+  },
+  "classification_report": {
+    "Benign": {
+      "precision": 1.0,
+      "recall": 0.9583333333333334,
+      "f1-score": 0.9787234042553191,
+      "support": 24.0
+    },
+    "Malignant": {
+      "precision": 0.9454545454545454,
+      "recall": 1.0,
+      "f1-score": 0.9719626168224299,
+      "support": 52.0
+    },
+    "Normal": {
+      "precision": 0.98,
+      "recall": 0.9423076923076923,
+      "f1-score": 0.9607843137254902,
+      "support": 52.0
+    },
+    "accuracy": 0.96875,
+    "macro avg": {
+      "precision": 0.9751515151515151,
+      "recall": 0.9668803418803419,
+      "f1-score": 0.9704901116010798,
+      "support": 128.0
+    },
+    "weighted avg": {
+      "precision": 0.9697159090909091,
+      "recall": 0.96875,
+      "f1-score": 0.968689078832965,
+      "support": 128.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      23,
+      0,
+      1
+    ],
+    [
+      0,
+      52,
+      0
+    ],
+    [
+      0,
+      3,
+      49
+    ]
+  ],
+  "classes": [
+    "Benign",
+    "Malignant",
+    "Normal"
+  ],
+  "comparison": [
+    {
+      "model": "Random Forest",
+      "best_cv_score": 0.9599695720072212,
+      "best_params": {
+        "model__max_depth": null,
+        "model__min_samples_leaf": 1,
+        "model__n_estimators": 150
+      },
+      "accuracy": 0.96875,
+      "precision_macro": 0.9751515151515151,
+      "recall_macro": 0.9668803418803419,
+      "f1_macro": 0.9704901116010798,
+      "roc_auc_ovr": 0.9972447143499775
+    },
+    {
+      "model": "Logistic Regression",
+      "best_cv_score": 0.922751346243912,
+      "best_params": {
+        "model__C": 3.0
+      },
+      "accuracy": 0.953125,
+      "precision_macro": 0.9543650793650794,
+      "recall_macro": 0.9316239316239315,
+      "f1_macro": 0.9412081984897519,
+      "roc_auc_ovr": 0.9908485155195681
+    },
+    {
+      "model": "Support Vector Machine",
+      "best_cv_score": 0.9394261397239415,
+      "best_params": {
+        "model__C": 0.5,
+        "model__kernel": "linear"
+      },
+      "accuracy": 0.9453125,
+      "precision_macro": 0.9393939393939394,
+      "recall_macro": 0.9252136752136751,
+      "f1_macro": 0.9314786395931877,
+      "roc_auc_ovr": 0.9908625730994153
+    }
+  ],
+  "feature_importance": [
+    {
+      "feature": "thumb_pixel_006",
+      "importance": 0.024566417617293442,
+      "normalized_importance": 0.024566417617293442
+    },
+    {
+      "feature": "thumb_pixel_008",
+      "importance": 0.020884790370691977,
+      "normalized_importance": 0.020884790370691977
+    },
+    {
+      "feature": "thumb_pixel_009",
+      "importance": 0.01950320035315485,
+      "normalized_importance": 0.01950320035315485
+    },
+    {
+      "feature": "thumb_pixel_005",
+      "importance": 0.01751953575791758,
+      "normalized_importance": 0.01751953575791758
+    },
+    {
+      "feature": "thumb_pixel_007",
+      "importance": 0.016405050997015107,
+      "normalized_importance": 0.016405050997015107
+    },
+    {
+      "feature": "thumb_pixel_034",
+      "importance": 0.012050946535097624,
+      "normalized_importance": 0.012050946535097624
+    },
+    {
+      "feature": "thumb_pixel_027",
+      "importance": 0.011981178119438008,
+      "normalized_importance": 0.011981178119438008
+    },
+    {
+      "feature": "thumb_pixel_010",
+      "importance": 0.01164125589630722,
+      "normalized_importance": 0.01164125589630722
+    },
+    {
+      "feature": "thumb_pixel_141",
+      "importance": 0.010754748304431763,
+      "normalized_importance": 0.010754748304431763
+    },
+    {
+      "feature": "thumb_pixel_125",
+      "importance": 0.010599716676809433,
+      "normalized_importance": 0.010599716676809433
+    },
+    {
+      "feature": "thumb_pixel_065",
+      "importance": 0.010066342087284104,
+      "normalized_importance": 0.010066342087284104
+    },
+    {
+      "feature": "thumb_pixel_049",
+      "importance": 0.010018209790777315,
+      "normalized_importance": 0.010018209790777315
+    },
+    {
+      "feature": "thumb_pixel_021",
+      "importance": 0.009198115494368471,
+      "normalized_importance": 0.009198115494368471
+    },
+    {
+      "feature": "thumb_pixel_020",
+      "importance": 0.008949540300527921,
+      "normalized_importance": 0.008949540300527921
+    },
+    {
+      "feature": "thumb_pixel_128",
+      "importance": 0.008390729151158372,
+      "normalized_importance": 0.008390729151158372
+    },
+    {
+      "feature": "thumb_pixel_050",
+      "importance": 0.007267655014567298,
+      "normalized_importance": 0.007267655014567298
+    },
+    {
+      "feature": "thumb_pixel_001",
+      "importance": 0.007244732190699435,
+      "normalized_importance": 0.007244732190699435
+    },
+    {
+      "feature": "thumb_pixel_207",
+      "importance": 0.007210900251432901,
+      "normalized_importance": 0.007210900251432901
+    },
+    {
+      "feature": "thumb_pixel_144",
+      "importance": 0.007048028518671929,
+      "normalized_importance": 0.007048028518671929
+    },
+    {
+      "feature": "thumb_pixel_045",
+      "importance": 0.006792498607387061,
+      "normalized_importance": 0.006792498607387061
+    },
+    {
+      "feature": "thumb_pixel_131",
+      "importance": 0.006770050327456491,
+      "normalized_importance": 0.006770050327456491
+    },
+    {
+      "feature": "green_median",
+      "importance": 0.00662893878211768,
+      "normalized_importance": 0.00662893878211768
+    },
+    {
+      "feature": "thumb_pixel_048",
+      "importance": 0.006595607755158538,
+      "normalized_importance": 0.006595607755158538
+    },
+    {
+      "feature": "thumb_pixel_109",
+      "importance": 0.006480317609841607,
+      "normalized_importance": 0.006480317609841607
+    },
+    {
+      "feature": "thumb_pixel_231",
+      "importance": 0.006139919239124375,
+      "normalized_importance": 0.006139919239124375
+    },
+    {
+      "feature": "thumb_pixel_222",
+      "importance": 0.006014185443459214,
+      "normalized_importance": 0.006014185443459214
+    },
+    {
+      "feature": "red_median",
+      "importance": 0.0057578928319982235,
+      "normalized_importance": 0.0057578928319982235
+    },
+    {
+      "feature": "red_hist_06",
+      "importance": 0.005721409418204839,
+      "normalized_importance": 0.005721409418204839
+    },
+    {
+      "feature": "thumb_pixel_099",
+      "importance": 0.005705778907633773,
+      "normalized_importance": 0.005705778907633773
+    },
+    {
+      "feature": "thumb_pixel_171",
+      "importance": 0.005642067818045854,
+      "normalized_importance": 0.005642067818045854
+    },
+    {
+      "feature": "thumb_pixel_197",
+      "importance": 0.005640809653723133,
+      "normalized_importance": 0.005640809653723133
+    },
+    {
+      "feature": "thumb_pixel_024",
+      "importance": 0.005633458654657374,
+      "normalized_importance": 0.005633458654657374
+    },
+    {
+      "feature": "gray_hist_13",
+      "importance": 0.005480620059609449,
+      "normalized_importance": 0.005480620059609449
+    },
+    {
+      "feature": "gray_hist_12",
+      "importance": 0.005474080518805703,
+      "normalized_importance": 0.005474080518805703
+    },
+    {
+      "feature": "thumb_pixel_112",
+      "importance": 0.005381667066434873,
+      "normalized_importance": 0.005381667066434873
+    },
+    {
+      "feature": "thumb_pixel_164",
+      "importance": 0.005365852226388682,
+      "normalized_importance": 0.005365852226388682
+    },
+    {
+      "feature": "blue_std",
+      "importance": 0.005338701408502952,
+      "normalized_importance": 0.005338701408502952
+    },
+    {
+      "feature": "thumb_pixel_217",
+      "importance": 0.005290906892738695,
+      "normalized_importance": 0.005290906892738695
+    },
+    {
+      "feature": "blue_hist_06",
+      "importance": 0.005155895497450113,
+      "normalized_importance": 0.005155895497450113
+    },
+    {
+      "feature": "thumb_pixel_199",
+      "importance": 0.00511237701055506,
+      "normalized_importance": 0.00511237701055506
+    }
+  ]
+}
